@@ -1,2 +1,2 @@
 # portfolioHUB
-Portfólio acadêmico e pessoal com versionamento
+Portfólio acadêmico e pessoal.
