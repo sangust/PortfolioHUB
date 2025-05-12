@@ -1,1 +1,0 @@
-Local de integração do linkedin.

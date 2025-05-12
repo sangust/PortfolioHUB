@@ -1,1 +1,0 @@
-Pasta onde armazenará projetos academicos.
