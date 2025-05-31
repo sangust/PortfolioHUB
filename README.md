@@ -14,4 +14,4 @@ documentacao: Perfis de contato, curriculos e afins.
 
 ### 📌 Projeto Academico: Atividades logica programação
 - Descrição: Aprendizado em logica de programação.
-- Tecnologias: python
+- Tecnologias: python(flask), html, javascript, css.
